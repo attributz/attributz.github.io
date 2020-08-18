@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: contained
 title: Our connector
 ---
 Our connector
