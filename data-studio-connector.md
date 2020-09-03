@@ -32,6 +32,10 @@ Have a dataset  like <a href="https://docs.google.com/spreadsheets/d/1EDlGZnst2n
 
 Good news then - we've made a connector for it.
 
+<b>Note</b>: connector has not been published yet.  To access it now
+* search for `Build Your Own` Partner Connector
+* enter deployment ID `AKfycbyHQgY87_KLZKnc9Sswxif901g6GvHRaOuVhP4YSMs`
+
 <br>
 
 ## Here's how to use it
