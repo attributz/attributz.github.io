@@ -98,4 +98,4 @@ Good news then - we've made a connector for it.
 
 <br>
 
-[Terms of Service and Privacy Policy](/tos-and-privacy.html)
+And here's our [Terms of Service and Privacy Policy](/tos-and-privacy.html).
