@@ -1,0 +1,11 @@
+/*  */
+
+
+h1, h2 {
+  font-weight: bold;
+}
+
+.statement > p, .statement > .action-item > ul {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
